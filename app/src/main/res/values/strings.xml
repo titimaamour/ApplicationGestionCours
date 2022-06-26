@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ApplicationGestionCours</string>
+    <string name="str_Module">Module</string>
+    <string name="str_Professeur">Professseur</string>
+    <string name="str_HeureDebut">HeureDebut</string>
+    <string name="str_HeureFin">HeureFin</string>
+    <string name="str_VolumeHoraire">VolumeHoraire</string>
+    <string name="str_Group">Group</string>
+    <string name="str_Valider">Valider</string>
+
+</resources>
